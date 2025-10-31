@@ -95,11 +95,11 @@ Learning Rate: Controls both speed and convergence quality. Too large → diverg
 
 ## 🧭 Debugging Habits That Helped
 
-Read the exact error text — it usually reveals the cause.
-Verify working directory (os.getcwd()) and list files (os.listdir()).
-Check function signatures with inspect.signature(...).
-Use Raw GitHub downloads, not HTML pages.
-Make small, testable changes — import first, fit next, then plot.
-If this helped, save it for your next ML project!
-If you’ve fought similar “tiny typo, huge detour” bugs, share yours — I’d love to add them here. ✨
+- Read the exact error text — it usually reveals the cause.
+- Verify working directory (os.getcwd()) and list files (os.listdir()).
+- Check function signatures with inspect.signature(...).
+- Use Raw GitHub downloads, not HTML pages.
+- Make small, testable changes — import first, fit next, then plot.
+- If this helped, save it for your next ML project!
+- If you’ve fought similar “tiny typo, huge detour” bugs, share yours — I’d love to add them here. ✨
 
